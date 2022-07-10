@@ -1,1 +1,2 @@
 Hello friends, My name is Josmy Jose.
+This is my first project using git.
